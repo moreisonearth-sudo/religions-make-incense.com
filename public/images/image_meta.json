@@ -1,0 +1,288 @@
+[
+  {
+    "query": "Palo Santo incense sticks on dark background, premium aesthetic, square format",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/81iBVDQQV+L._AC_UF894,1000_QL80_.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 52823,
+      "width": 894,
+      "height": 952,
+      "total_pixels": 851088,
+      "basic_score": 0.9120634832754452,
+      "file_name": "bursera-palo-santo-black-packaging-wood-sticks.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image features high-quality professional product photography with excellent sharpness and clarity. While it perfectly matches the 'Palo Santo' and 'premium aesthetic' aspects—featuring stylish matte black packaging—it deviates from the specific prompt requirement for a 'dark background,' as the product is isolated on a white background. It remains highly usable for e-commerce contexts.",
+      "file_name": "bursera-palo-santo-black-packaging-wood-sticks.jpg",
+      "caption": "A matte black resealable bag of Bursera Palo Santo wood incense sticks standing vertically, with a small pile of raw natural wood sticks arranged in the foreground against a clean white background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Palo Santo incense sticks on dark background, premium aesthetic, square format",
+    "image_info": {
+      "url": "https://shop.stlartsupply.com/cdn/shop/files/sundaraconeinblackdish.jpg?v=1733671327&width=1000",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 90844,
+      "width": 1000,
+      "height": 668,
+      "total_pixels": 668000,
+      "basic_score": 0.8962055888178351,
+      "file_name": "palo-santo-wood-incense-cone-macro.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image successfully captures the main subject (Palo Santo) alongside an incense cone on a dark ceramic dish, aligning well with the query. The shallow depth of field provides a premium macro look with excellent texture details. It deviates slightly from the prompt's requested 'square format' and includes a blue background element rather than being entirely dark, but is otherwise a high-quality representation.",
+      "file_name": "palo-santo-wood-incense-cone-macro.jpg",
+      "caption": "A macro shot of a burnt Palo Santo wood stick and a smoldering incense cone placed on a black, textured ceramic incense holder.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Palo Santo incense sticks on dark background, premium aesthetic, square format",
+    "image_info": {
+      "url": "http://sacredwoodessence.com/cdn/shop/products/Copyofplaceholderbannersforwebsite_1200x1200.png?v=1629397882",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 908210,
+      "width": 1024,
+      "height": 512,
+      "total_pixels": 524288,
+      "basic_score": 0.8847797158021404,
+      "file_name": "sacred-wood-essence-palo-santo-sticks-packaging.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image features high-quality product photography of Palo Santo sticks in premium black packaging, which aligns well with the 'premium aesthetic' and product type. However, it deviates from the prompt's request for a 'dark background' (the background is grey wood) and a 'square format' (the image is landscape).",
+      "file_name": "sacred-wood-essence-palo-santo-sticks-packaging.jpg",
+      "caption": "Top-down view of Sacred Wood Essence Palo Santo incense sticks and powder in black packaging on a grey wooden floor.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Product photo of Super Hit incense, dark elegant background, square format",
+    "image_info": {
+      "url": "https://houseofnagchampa.com/wp-content/uploads/2023/12/Satya-Superhit-Incense-Sticks-1.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 82168,
+      "width": 600,
+      "height": 600,
+      "total_pixels": 360000,
+      "basic_score": 0.8236289702024748,
+      "file_name": "satya-super-hit-incense-premium-dark-smoke.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query and prompt. It clearly displays the Satya Super Hit branding and packaging details including the zodiac motifs. The dark, smoky background effectively conveys a premium and elegant atmosphere, fitting the 'premium' keyword. The resolution is high, and there are no watermarks.",
+      "file_name": "satya-super-hit-incense-premium-dark-smoke.jpg",
+      "caption": "A premium product display of Satya Super Hit incense boxes featuring the iconic zodiac design, set on a dark podium with elegant white smoke swirling in the background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Product photo of Super Hit incense, dark elegant background, square format",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/819ldeDgWmL._AC_UF894,1000_QL80_.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 70732,
+      "width": 894,
+      "height": 457,
+      "total_pixels": 408558,
+      "basic_score": 0.8176100344038664,
+      "file_name": "satya-super-hit-incense-15g-box.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 80.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly matches the product described in the search query ('Satya Super Hit Incense') and offers excellent clarity and detail. However, it does not meet the stylistic requirements of the prompt, as it features a standard white e-commerce background rather than a 'dark elegant background' and is rectangular rather than square.",
+      "file_name": "satya-super-hit-incense-15g-box.jpg",
+      "caption": "A high-angle studio shot of a 15g box of Satya Super Hit incense, displaying the black packaging with zodiac illustrations and the 'Export Quality' seal against a white background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Product photo of Nag Champa incense sticks, dark background, square format",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/61w7Iz+ZUaL._AC_UF894,1000_QL80_.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 84807,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9128929473838331,
+      "file_name": "satya-nag-champa-incense-box-with-bamboo-styling.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 80.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly features the specific product requested in the search query (Satya Nag Champa) with professional staging including bamboo and stones. The text is sharp and legible. However, it deviates significantly from the prompt's request for a \"dark background,\" instead featuring a light, beige textured background.",
+      "file_name": "satya-nag-champa-incense-box-with-bamboo-styling.jpg",
+      "caption": "A 250g blue box of Satya Sai Baba Nag Champa Agarbatti incense sticks displayed on a reflective surface, accompanied by lucky bamboo, white stones, and a single burning incense stick against a light textured background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Product photo of Nag Champa incense sticks, dark background, square format",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/81tn0+zxkNL._AC_UF894,1000_QL80_.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 64924,
+      "width": 894,
+      "height": 499,
+      "total_pixels": 446106,
+      "basic_score": 0.8367879255541023,
+      "file_name": "satya-incense-collection-lifestyle-marble-display.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 60.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image is a high-quality professional lifestyle shot featuring the product specified in the search query. However, it significantly deviates from the prompt's stylistic requirements, featuring a bright, airy setting and wide landscape format instead of the requested 'dark background' and 'square format'. Additionally, it depicts a variety collection rather than isolating the Nag Champa scent.",
+      "file_name": "satya-incense-collection-lifestyle-marble-display.jpg",
+      "caption": "A collection of Satya incense boxes, including Nag Champa, standing upright on a white marble surface, accompanied by burning incense, crystals, matches, and candles in a bright, soft-lit setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Product photo of Nag Champa incense sticks, dark background, square format",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/610S9y0rd7L.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 70297,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9240304143181016,
+      "file_name": "satya-nag-champa-agarbatti-blue-box-250g.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image perfectly identifies the product from the search query with high clarity and professional lighting. However, it does not adhere to the specific prompt requirement for a 'dark background,' featuring a white background with a reflection instead.",
+      "file_name": "satya-nag-champa-agarbatti-blue-box-250g.jpg",
+      "caption": "A 250g box of Satya Sai Baba Nag Champa Agarbatti incense sticks featuring the iconic blue packaging with red and white branding, displayed on a white background with a reflection.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Product photo of Nag Champa incense sticks, dark background, square format",
+    "image_info": {
+      "url": "https://i.ebayimg.com/images/g/1REAAOSws85lgoeB/s-l1200.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 132043,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8924471440989098,
+      "file_name": "satya-sai-baba-nag-champa-incense-sticks-box.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 95.0,
+      "watermark_score": 85.0,
+      "overall_score": 80.0,
+      "explanation": "The image perfectly matches the search query by displaying the correct Satya Nag Champa product with high clarity. However, it fails to meet the specific stylistic requirements of the prompt, as it has a white background instead of dark and is not in a square format. It also includes a 'Certified Green Product' graphic overlay.",
+      "file_name": "satya-sai-baba-nag-champa-incense-sticks-box.jpg",
+      "caption": "A display showing a large 12-pack carton and a single individual box of Satya Sai Baba Nag Champa Agarbatti incense sticks against a white background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Dragon Blood incense product photo, dark moody background, square format",
+    "image_info": {
+      "url": "https://thewitchessage.com/cdn/shop/products/SatyaDragon_sBloodBACKFLOWCones_tm_1024x1024.jpg?v=1590274926",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 204640,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9367251301866448,
+      "file_name": "satya_dragons_blood_backflow_dhoop_cones_product_shot.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly matches the search query, clearly displaying the specific Satya Dragon's Blood product and the incense cones. However, it does not adhere to the prompt's request for a 'dark moody background,' as it features a standard white e-commerce background. The square format request is met.",
+      "file_name": "satya_dragons_blood_backflow_dhoop_cones_product_shot.jpg",
+      "caption": "A red box of Satya Dragon's Blood Backflow Dhoop Cones displayed with four brown incense cones on a plain white background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Dragon Blood incense product photo, dark moody background, square format",
+    "image_info": {
+      "url": "http://weincense.com/cdn/shop/products/DRAGONSBLOOD-PACK--800x800_0c0842ab-af16-4988-a671-33ee276decb6.jpg?v=1680751510",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 61640,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8848710951844022,
+      "file_name": "satya-dragons-blood-incense-15g-box-packaging.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 70.0,
+      "explanation": "The image is highly relevant to the search query, accurately depicting the specific Satya Dragon's Blood incense product with excellent clarity and readable text. However, it does not align with the stylistic requirements of the prompt, which requested a 'dark moody background'; instead, it presents a standard high-key e-commerce shot on a white background.",
+      "file_name": "satya-dragons-blood-incense-15g-box-packaging.jpg",
+      "caption": "A 15g box of Satya Nag Champa Dragon's Blood incense, featuring the iconic red and white packaging with the 'Export Quality' seal clearly visible.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
